@@ -1,0 +1,34 @@
+pwd
+	cd 
+	ls (-l list_type -la list_all -R recursive)
+cat 
+	mkdir 
+rmdir
+	cpdasdasdasd
+	mv
+	rm
+touch 
+	locate
+
+grep
+	sudo
+df (DiskField)
+du (DiskUsage)
+head (first 10 lines of file) (-n 5 Numbers of line = 5)!
+tail (Same as head but not same)!
+diff (Diferents by 2 files)
+
+	chmod
+	chown
+jobs
+	kill
+ping
+	wget
+uname
+	top (equivalent TaskManager)
+history
+	man
+useradd, userdel
+
+
+Удаление папок вместе в внутреними файлами !!

@@ -1,0 +1,21 @@
+git init -b main
+
+git add . && git commit -m "initial commit"
+
+
+
+git@github.com:jinkssgit/deniKiev.git
+
+
+
+git init -b main
+git add --all
+git commit
+git config --global user.name "jinkss"
+git commit
+git config --global user.email "jinx.ggvp@gmail.com"
+git commit
+git commit -m "First Upload"
+git remote add origin git@github.com:jinkssgit/deniKiev.git
+git remote -v
+git push origin main
